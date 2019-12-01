@@ -1,0 +1,138 @@
+.barra{
+	height: 100px;
+	background-color: #36d1c4;
+	box-shadow: 4px 4px 4px black;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%
+}
+
+
+.textoB{
+	color: #ffffff;
+	font-size: 20px;
+	text-shadow: 2px 2px 2px black;
+	font-family: 'Ubuntu', sans-serif;
+	cursor: pointer;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	border-left: 1px solid black; 
+	width: 100%;
+}
+
+.textoB:hover{
+	font-size: 26px;
+	text-shadow: 2px 2px 2px black;
+}
+
+.mision{
+	background-color: ;
+	font-family: 'Ubuntu', sans-serif;
+
+}
+
+.bb{
+	height: 100px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.qs{
+	height: 400px;
+	background: url("https://1.bp.blogspot.com/-6YoOvMy6XzY/Vzcuw6QCW3I/AAAAAAADIrw/7Yp6LQruu-IWXkBztLNQaKLWirZHxIdxACLcB/s1600/MUNCHKIN%2BKAT%2BBY%2Bspliskemacke.blogspot.hr%2B1.jpg") no-repeat fixed;
+	background-size: cover;
+
+}
+
+.espacio{
+	margin-top: 100px;
+}
+
+
+.qss{
+	font-family: 'Ubuntu', sans-serif;
+	color: white;
+	font-size: 40px;
+	text-shadow: 2px 2px 2px black;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.cennn{
+	height: 400px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.sqss{
+	font-family: 'Roboto', sans-serif;
+	color: white;
+	font-size: 15px;
+	text-shadow: 2px 2px 2px grey;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+
+.mision1{
+	background-color: #a0eecc;
+	box-shadow: 2px 2px 2px black;
+	font-family: 'Roboto', sans-serif;
+}
+.tex{
+	font-size: 70px;
+	padding-top: 100px;
+}
+.text{
+	font-size: 20px;
+
+}
+.borde{
+	padding-top: 40px;
+	-webkit-clip-path: polygon(0 0, 100% 0%, 75% 100%, 0% 100%);
+	clip-path: polygon(0 0, 100% 0%, 75% 100%, 0% 100%);
+}
+.borde1{
+	padding-top: 30px;
+	-webkit-clip-path: polygon(1% 0, 100% 0%, 100% 100%, 25% 99%);
+	clip-path: polygon(1% 0, 100% 0%, 100% 100%, 25% 99%);
+}
+
+.pri {
+	padding-right: 140px
+}
+.prii {
+	padding-left : 162px
+}
+.bod{
+	height: 300px;
+}
+
+.body{
+	height: 310px;	
+}
+.colo{
+	background-color: #fff2be;
+}
+
+.ff{
+	padding-top: 55px;
+}
+.im{
+	height: 200px;
+	
+}
+.k{
+	background-color: #a0eecc;
+	box-shadow: 2px 2px 2px black;	
+}
+.s{
+	background-color: #a0eecc;
+	box-shadow: -2px 2px 2px black;
+}
